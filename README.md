@@ -1,1 +1,3 @@
-# call-of-duty
+# HTML / CSS / JS
+## Call of Duty
+###### website "inventory"
