@@ -412,4 +412,12 @@ li {
     .hero .control{
         margin-top: 5%;
     }
+
+    .accessoire.principale img{
+        width: 25rem;
+    }
+    
+    .accessoire.secondaire img{
+        width: 25rem;
+    }
 }
