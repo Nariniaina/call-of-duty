@@ -349,6 +349,10 @@ li {
 }
 
 @media only screen and (max-width: 1828px) {
+    html{
+        font-size: 42.5%;
+    }
+
     .hero .control{
         justify-content: space-between;
         align-items: center;
@@ -402,7 +406,7 @@ li {
 
 @media only screen and (max-width: 600px) {
     .header{
-        height: 200vh;
+        height: 220vh;
     }
 
     .hero .control{
